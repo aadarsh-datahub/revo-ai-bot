@@ -86,5 +86,4 @@ MIT — see [LICENSE](./LICENSE).
 ---
 ##  Credits
 - Built by **AADARSH MISHRA**
-- Powered by [Lovable](https://lovable.dev)
 - GIFs by [Tenor](https://tenor.com)
